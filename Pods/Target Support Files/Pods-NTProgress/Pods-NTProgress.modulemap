@@ -1,0 +1,6 @@
+framework module Pods_NTProgress {
+  umbrella header "Pods-NTProgress-umbrella.h"
+
+  export *
+  module * { export * }
+}
